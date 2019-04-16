@@ -1,0 +1,50 @@
+h1{
+  margin-left: 3%;
+}
+
+#link{
+  width: 500px;
+  height: 50px;
+  border-radius: 50px;
+  border: none;
+  font-size: 18px;
+  margin-bottom: 5%;
+  background-color: #F9DEEA;
+
+}
+#btn1{
+  margin-bottom: 2%;
+    margin-left: 14%;
+}
+
+#or{
+  /*margin-left: 46%;*/
+  text-align: center;
+}
+
+#btn2{
+  margin-left: 14%;
+  width: 350px;
+}
+
+#img{
+  width: 500px;
+  height: 400px;
+}
+
+#rect{
+  border-style : solid;
+  color: black;
+  position: absolute;
+  visibility: hidden;
+}
+
+#list{
+  width: 250px;
+  position: absolute;
+  list-style: none;
+  background-color: grey;
+  visibility: hidden;
+}
+
+
